@@ -1,0 +1,15 @@
+{
+  "name": "chai-and-backend",
+  "version": "1.0.0",
+  "description": "testing",
+  "license": "ISC",
+  "author": "sourav giri",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
